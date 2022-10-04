@@ -31,6 +31,10 @@ lowercase prompt
 
 Generated Password
 
-<img width="647" alt="Screen Shot 2022-10-03 at 10 00 50 PM" src="https://user-images.githubusercontent.com/112598840/193718965-e25ee587-e555-4e7d-a8cb-ceabd5a56b18.png">
-<img width="613" alt="Screen Shot 2022-10-03 at 10 00 31 PM" src="https://user-images.githubusercontent.com/112598840/193718997-33270b66-c856-4b4b-92d3-e05919e18798.png">
+<img width="999" alt="Screen Shot 2022-10-03 at 9 56 45 PM" src="https://user-images.githubusercontent.com/112598840/193719439-12ca58e3-ab92-46ea-8599-232dd0dfa3cd.png">
+<img width="739" alt="Screen Shot 2022-10-03 at 9 59 41 PM" src="https://user-images.githubusercontent.com/112598840/193719441-1ed2cb6d-9a45-4d79-a9c7-2353d7b7eb0e.png">
+<img width="664" alt="Screen Shot 2022-10-03 at 10 00 06 PM" src="https://user-images.githubusercontent.com/112598840/193719443-9378451b-ca33-4cff-97d1-f8caf307de69.png">
+<img width="613" alt="Screen Shot 2022-10-03 at 10 00 31 PM" src="https://user-images.githubusercontent.com/112598840/193719446-a60f5536-68ff-4f66-bba4-0d37c517f585.png">
+<img width="647" alt="Screen Shot 2022-10-03 at 10 00 50 PM" src="https://user-images.githubusercontent.com/112598840/193719448-020a905d-aae3-4820-8f2e-96cf4d4c25b3.png">
+
 
